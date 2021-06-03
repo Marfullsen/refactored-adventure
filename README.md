@@ -1,7 +1,7 @@
 # Refactored Adventure
 [![Jquery](https://img.shields.io/badge/jQuery-3.1.1-blue.svg)](https://www.python.org/)
 
-[![Screenshot](./capturas_de_pantalla/captura_principal.png)](https://github.com/Ocikotorzido/refactored-adventure/capturas_de_pantalla/)
+[![Screenshot](./capturas_de_pantalla/captura_principal.png)](https://github.com/Ocikotorzido/refactored-adventure/capturas_de_pantalla/captura_principal.png)
 
 ## ¿Qué es esto?
 Esto es un sitio web que contiene mi información como desarrollador además de mis datos de contacto.
