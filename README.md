@@ -16,7 +16,7 @@ El sitio está alojado en GitHub Pages, se puede acceder desde este link:
 - CSS
 - jQuery
 
-## Contribuciones
+## Agradecimientos
 
 Francisco Marfull
 https://github.com/Marfullsen
